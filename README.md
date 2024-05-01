@@ -1,6 +1,3 @@
-Creating a README file is a good practice to provide information about your project to users and developers. Here's a basic template for a README file for your PyQt application:
-
-```markdown
 # Todo List Application
 
 This is a simple todo list application built using PyQt. It allows users to add tasks, mark tasks as completed, and manage their todo list.
